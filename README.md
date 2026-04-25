@@ -2,6 +2,8 @@
 
 Funkční ukázka MCP (Model Context Protocol) serveru v TypeScriptu. Součást [aidevelopers.cz](https://aidevelopers.cz).
 
+> Článek: [MCP servery — praktický průvodce pro vývojáře](https://www.aidevelopers.cz/clanky/2026-04-19-mcp-servery-prakticky-pruvodce-pro-vyvojare)
+
 ## Co je MCP?
 
 MCP (Model Context Protocol) je otevřený protokol od Anthropic, který umožňuje AI modelům (Claude, GPT atd.) bezpečně přistupovat k externím nástrojům a datům.
@@ -70,7 +72,6 @@ await server.connect(transport)
 
 - [Oficiální dokumentace](https://modelcontextprotocol.io)
 - [MCP SDK na npm](https://www.npmjs.com/package/@modelcontextprotocol/sdk)
-- [Článek na aidevelopers.cz](https://aidevelopers.cz/clanky/)
 
 ---
 
